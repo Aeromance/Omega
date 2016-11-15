@@ -4,5 +4,5 @@
         android:summary="Select emergency contacts:"
         android:key="emergency"
         android:title="Contacts"
-        android:defaultValue="@string/start"/>
+        />
 </PreferenceScreen>
